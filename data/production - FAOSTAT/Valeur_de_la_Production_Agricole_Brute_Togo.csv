@@ -1,0 +1,460 @@
+,Produit,Année,Unité,Valeur,Symbole,Description du Symbole
+0,Ananas,2010,1000 USD,394,E,Valeur estimée
+1,Ananas,2011,1000 USD,458,E,Valeur estimée
+2,Ananas,2012,1000 USD,572,E,Valeur estimée
+3,Ananas,2013,1000 USD,658,E,Valeur estimée
+4,Ananas,2014,1000 USD,739,E,Valeur estimée
+5,Ananas,2015,1000 USD,645,E,Valeur estimée
+6,Ananas,2016,1000 USD,408,E,Valeur estimée
+7,Ananas,2017,1000 USD,498,E,Valeur estimée
+8,Ananas,2018,1000 USD,489,E,Valeur estimée
+9,Ananas,2019,1000 USD,408,E,Valeur estimée
+10,Ananas,2020,1000 USD,464,E,Valeur estimée
+11,Ananas,2021,1000 USD,516,E,Valeur estimée
+12,Ananas,2022,1000 USD,453,E,Valeur estimée
+13,Ananas,2023,1000 USD,474,E,Valeur estimée
+14,Ananas,2024,1000 USD,481,E,Valeur estimée
+15,Arachides non décortiquées,2010,1000 USD,20559,A,Chiffre officiel
+16,Arachides non décortiquées,2011,1000 USD,27606,A,Chiffre officiel
+17,Arachides non décortiquées,2012,1000 USD,32394,A,Chiffre officiel
+18,Arachides non décortiquées,2013,1000 USD,26931,A,Chiffre officiel
+19,Arachides non décortiquées,2014,1000 USD,25578,A,Chiffre officiel
+20,Arachides non décortiquées,2015,1000 USD,23367,A,Chiffre officiel
+21,Arachides non décortiquées,2016,1000 USD,24977,A,Chiffre officiel
+22,Arachides non décortiquées,2017,1000 USD,23145,A,Chiffre officiel
+23,Arachides non décortiquées,2018,1000 USD,27389,A,Chiffre officiel
+24,Arachides non décortiquées,2019,1000 USD,22675,A,Chiffre officiel
+25,Arachides non décortiquées,2020,1000 USD,21795,A,Chiffre officiel
+26,Arachides non décortiquées,2021,1000 USD,21842,A,Chiffre officiel
+27,Arachides non décortiquées,2022,1000 USD,23485,A,Chiffre officiel
+28,Arachides non décortiquées,2023,1000 USD,27347,E,Valeur estimée
+29,Arachides non décortiquées,2024,1000 USD,28921,E,Valeur estimée
+30,Autres fruits n.a.c.,2010,1000 USD,10430,E,Valeur estimée
+31,Autres fruits n.a.c.,2011,1000 USD,10083,E,Valeur estimée
+32,Autres fruits n.a.c.,2012,1000 USD,10272,E,Valeur estimée
+33,Autres fruits n.a.c.,2013,1000 USD,11430,E,Valeur estimée
+34,Autres fruits n.a.c.,2014,1000 USD,12674,E,Valeur estimée
+35,Autres fruits n.a.c.,2015,1000 USD,13036,E,Valeur estimée
+36,Autres fruits n.a.c.,2016,1000 USD,16612,E,Valeur estimée
+37,Autres fruits n.a.c.,2017,1000 USD,20268,E,Valeur estimée
+38,Autres fruits n.a.c.,2018,1000 USD,31519,E,Valeur estimée
+39,Autres fruits n.a.c.,2019,1000 USD,28388,E,Valeur estimée
+40,Autres fruits n.a.c.,2020,1000 USD,23231,E,Valeur estimée
+41,Autres fruits n.a.c.,2021,1000 USD,21280,E,Valeur estimée
+42,Autres fruits n.a.c.,2022,1000 USD,15218,E,Valeur estimée
+43,Autres fruits n.a.c.,2023,1000 USD,16074,E,Valeur estimée
+44,Autres fruits n.a.c.,2024,1000 USD,16686,E,Valeur estimée
+45,Autres légumes frais n.a.c.,2010,1000 USD,108034,E,Valeur estimée
+46,Autres légumes frais n.a.c.,2011,1000 USD,117392,E,Valeur estimée
+47,Autres légumes frais n.a.c.,2012,1000 USD,118581,E,Valeur estimée
+48,Autres légumes frais n.a.c.,2013,1000 USD,119651,E,Valeur estimée
+49,Autres légumes frais n.a.c.,2014,1000 USD,119460,E,Valeur estimée
+50,Autres légumes frais n.a.c.,2015,1000 USD,100196,E,Valeur estimée
+51,Autres légumes frais n.a.c.,2016,1000 USD,100277,E,Valeur estimée
+52,Autres légumes frais n.a.c.,2017,1000 USD,104946,E,Valeur estimée
+53,Autres légumes frais n.a.c.,2018,1000 USD,106263,E,Valeur estimée
+54,Autres légumes frais n.a.c.,2019,1000 USD,90361,E,Valeur estimée
+55,Autres légumes frais n.a.c.,2020,1000 USD,88799,E,Valeur estimée
+56,Autres légumes frais n.a.c.,2021,1000 USD,104877,E,Valeur estimée
+57,Autres légumes frais n.a.c.,2022,1000 USD,99615,E,Valeur estimée
+58,Autres légumes frais n.a.c.,2023,1000 USD,107669,E,Valeur estimée
+59,Autres légumes frais n.a.c.,2024,1000 USD,112872,E,Valeur estimée
+60,Bananes,2010,1000 USD,8268,E,Valeur estimée
+61,Bananes,2011,1000 USD,9138,E,Valeur estimée
+62,Bananes,2012,1000 USD,9956,E,Valeur estimée
+63,Bananes,2013,1000 USD,11234,E,Valeur estimée
+64,Bananes,2014,1000 USD,15838,E,Valeur estimée
+65,Bananes,2015,1000 USD,9412,E,Valeur estimée
+66,Bananes,2016,1000 USD,9342,E,Valeur estimée
+67,Bananes,2017,1000 USD,8761,E,Valeur estimée
+68,Bananes,2018,1000 USD,13519,E,Valeur estimée
+69,Bananes,2019,1000 USD,8226,E,Valeur estimée
+70,Bananes,2020,1000 USD,10450,E,Valeur estimée
+71,Bananes,2021,1000 USD,12665,E,Valeur estimée
+72,Bananes,2022,1000 USD,10885,E,Valeur estimée
+73,Bananes,2023,1000 USD,12214,E,Valeur estimée
+74,Bananes,2024,1000 USD,12155,E,Valeur estimée
+75,Ceréales n.a.c.,2010,1000 USD,679,E,Valeur estimée
+76,Ceréales n.a.c.,2011,1000 USD,645,E,Valeur estimée
+77,Ceréales n.a.c.,2012,1000 USD,1767,E,Valeur estimée
+78,Ceréales n.a.c.,2013,1000 USD,2444,E,Valeur estimée
+79,Ceréales n.a.c.,2014,1000 USD,3250,E,Valeur estimée
+80,Ceréales n.a.c.,2015,1000 USD,2790,E,Valeur estimée
+81,Ceréales n.a.c.,2016,1000 USD,2011,E,Valeur estimée
+82,Choux,2010,1000 USD,283,E,Valeur estimée
+83,Choux,2011,1000 USD,304,E,Valeur estimée
+84,Choux,2012,1000 USD,360,E,Valeur estimée
+85,Choux,2013,1000 USD,392,E,Valeur estimée
+86,Choux,2014,1000 USD,415,E,Valeur estimée
+87,Choux,2015,1000 USD,366,E,Valeur estimée
+88,Choux,2016,1000 USD,385,E,Valeur estimée
+89,Choux,2017,1000 USD,446,E,Valeur estimée
+90,Choux,2018,1000 USD,518,E,Valeur estimée
+91,Choux,2019,1000 USD,289,E,Valeur estimée
+92,Choux,2020,1000 USD,402,E,Valeur estimée
+93,Choux,2021,1000 USD,482,E,Valeur estimée
+94,Choux,2022,1000 USD,413,E,Valeur estimée
+95,Choux,2023,1000 USD,464,E,Valeur estimée
+96,Choux,2024,1000 USD,468,E,Valeur estimée
+97,"Coton en graine, non égrené",2010,1000 USD,14325,A,Chiffre officiel
+98,"Coton en graine, non égrené",2011,1000 USD,29236,A,Chiffre officiel
+99,"Coton en graine, non égrené",2012,1000 USD,26090,A,Chiffre officiel
+100,"Coton en graine, non égrené",2013,1000 USD,26000,A,Chiffre officiel
+101,"Coton en graine, non égrené",2014,1000 USD,36168,E,Valeur estimée
+102,"Coton en graine, non égrené",2015,1000 USD,23709,E,Valeur estimée
+103,"Coton en graine, non égrené",2016,1000 USD,34626,E,Valeur estimée
+104,"Coton en graine, non égrené",2017,1000 USD,37832,E,Valeur estimée
+105,"Coton en graine, non égrené",2018,1000 USD,49659,E,Valeur estimée
+106,"Coton en graine, non égrené",2019,1000 USD,40284,E,Valeur estimée
+107,"Coton en graine, non égrené",2020,1000 USD,24268,E,Valeur estimée
+108,"Coton en graine, non égrené",2021,1000 USD,17657,E,Valeur estimée
+109,"Coton en graine, non égrené",2022,1000 USD,15293,E,Valeur estimée
+110,"Coton en graine, non égrené",2023,1000 USD,14850,E,Valeur estimée
+111,"Coton en graine, non égrené",2024,1000 USD,13555,E,Valeur estimée
+112,Fèves de soja,2016,1000 USD,15183,E,Valeur estimée
+113,Fèves de soja,2017,1000 USD,22345,E,Valeur estimée
+114,Fèves de soja,2018,1000 USD,42740,E,Valeur estimée
+115,Fèves de soja,2019,1000 USD,46414,E,Valeur estimée
+116,Fèves de soja,2020,1000 USD,71153,A,Chiffre officiel
+117,Fèves de soja,2021,1000 USD,128412,A,Chiffre officiel
+118,Fèves de soja,2022,1000 USD,138361,A,Chiffre officiel
+119,Fèves de soja,2023,1000 USD,151213,E,Valeur estimée
+120,Fèves de soja,2024,1000 USD,172286,E,Valeur estimée
+121,Fonio,2017,1000 USD,3910,A,Chiffre officiel
+122,Fonio,2018,1000 USD,4831,A,Chiffre officiel
+123,Fonio,2019,1000 USD,3743,A,Chiffre officiel
+124,Fonio,2020,1000 USD,4092,E,Valeur estimée
+125,Fonio,2021,1000 USD,4683,E,Valeur estimée
+126,Fonio,2022,1000 USD,4105,E,Valeur estimée
+127,Fonio,2023,1000 USD,4609,E,Valeur estimée
+128,Fonio,2024,1000 USD,5408,E,Valeur estimée
+129,Graines de ricin,2010,1000 USD,19,E,Valeur estimée
+130,Graines de ricin,2011,1000 USD,22,E,Valeur estimée
+131,Graines de ricin,2012,1000 USD,23,E,Valeur estimée
+132,Graines de ricin,2013,1000 USD,26,E,Valeur estimée
+133,Graines de ricin,2014,1000 USD,27,E,Valeur estimée
+134,Graines de ricin,2015,1000 USD,24,E,Valeur estimée
+135,Graines de ricin,2016,1000 USD,23,E,Valeur estimée
+136,Graines de ricin,2017,1000 USD,25,E,Valeur estimée
+137,Graines de ricin,2018,1000 USD,28,E,Valeur estimée
+138,Graines de ricin,2019,1000 USD,26,E,Valeur estimée
+139,Graines de ricin,2020,1000 USD,27,E,Valeur estimée
+140,Graines de ricin,2021,1000 USD,28,E,Valeur estimée
+141,Graines de ricin,2022,1000 USD,25,E,Valeur estimée
+142,Graines de ricin,2023,1000 USD,25,E,Valeur estimée
+143,Graines de ricin,2024,1000 USD,25,E,Valeur estimée
+144,"Huile, noix de palme",2010,1000 USD,15417,E,Valeur estimée
+145,"Huile, noix de palme",2011,1000 USD,16710,E,Valeur estimée
+146,"Huile, noix de palme",2012,1000 USD,16794,E,Valeur estimée
+147,"Huile, noix de palme",2013,1000 USD,18647,E,Valeur estimée
+148,"Huile, noix de palme",2014,1000 USD,19980,E,Valeur estimée
+149,"Huile, noix de palme",2015,1000 USD,18423,E,Valeur estimée
+150,"Huile, noix de palme",2016,1000 USD,20264,E,Valeur estimée
+151,"Huile, noix de palme",2017,1000 USD,22614,E,Valeur estimée
+152,"Huile, noix de palme",2018,1000 USD,39489,E,Valeur estimée
+153,"Huile, noix de palme",2019,1000 USD,28707,E,Valeur estimée
+154,"Huile, noix de palme",2020,1000 USD,28044,E,Valeur estimée
+155,"Huile, noix de palme",2021,1000 USD,29685,E,Valeur estimée
+156,"Huile, noix de palme",2022,1000 USD,27066,E,Valeur estimée
+157,"Huile, noix de palme",2023,1000 USD,30825,E,Valeur estimée
+158,"Huile, noix de palme",2024,1000 USD,33737,E,Valeur estimée
+159,Ignames,2010,1000 USD,256778,A,Chiffre officiel
+160,Ignames,2011,1000 USD,305371,A,Chiffre officiel
+161,Ignames,2012,1000 USD,352179,A,Chiffre officiel
+162,Ignames,2013,1000 USD,264994,A,Chiffre officiel
+163,Ignames,2014,1000 USD,322883,A,Chiffre officiel
+164,Ignames,2015,1000 USD,302446,A,Chiffre officiel
+165,Ignames,2016,1000 USD,326910,A,Chiffre officiel
+166,Ignames,2017,1000 USD,459784,A,Chiffre officiel
+167,Ignames,2018,1000 USD,355606,A,Chiffre officiel
+168,Ignames,2019,1000 USD,444661,A,Chiffre officiel
+169,Ignames,2020,1000 USD,397218,A,Chiffre officiel
+170,Ignames,2021,1000 USD,448580,A,Chiffre officiel
+171,Ignames,2022,1000 USD,416728,A,Chiffre officiel
+172,Ignames,2023,1000 USD,427676,E,Valeur estimée
+173,Ignames,2024,1000 USD,456758,E,Valeur estimée
+174,Maïs,2010,1000 USD,175226,A,Chiffre officiel
+175,Maïs,2011,1000 USD,213787,A,Chiffre officiel
+176,Maïs,2012,1000 USD,260396,A,Chiffre officiel
+177,Maïs,2013,1000 USD,214495,A,Chiffre officiel
+178,Maïs,2014,1000 USD,215668,A,Chiffre officiel
+179,Maïs,2015,1000 USD,213554,A,Chiffre officiel
+180,Maïs,2016,1000 USD,238606,A,Chiffre officiel
+181,Maïs,2017,1000 USD,236982,A,Chiffre officiel
+182,Maïs,2018,1000 USD,242630,A,Chiffre officiel
+183,Maïs,2019,1000 USD,227278,A,Chiffre officiel
+184,Maïs,2020,1000 USD,242943,A,Chiffre officiel
+185,Maïs,2021,1000 USD,356845,A,Chiffre officiel
+186,Maïs,2022,1000 USD,383580,A,Chiffre officiel
+187,Maïs,2023,1000 USD,366126,E,Valeur estimée
+188,Maïs,2024,1000 USD,336525,E,Valeur estimée
+189,"Manioc, frais",2010,1000 USD,144953,A,Chiffre officiel
+190,"Manioc, frais",2011,1000 USD,171408,A,Chiffre officiel
+191,"Manioc, frais",2012,1000 USD,204941,A,Chiffre officiel
+192,"Manioc, frais",2013,1000 USD,173613,A,Chiffre officiel
+193,"Manioc, frais",2014,1000 USD,244888,A,Chiffre officiel
+194,"Manioc, frais",2015,1000 USD,194950,A,Chiffre officiel
+195,"Manioc, frais",2016,1000 USD,209793,A,Chiffre officiel
+196,"Manioc, frais",2017,1000 USD,283448,A,Chiffre officiel
+197,"Manioc, frais",2018,1000 USD,290292,A,Chiffre officiel
+198,"Manioc, frais",2019,1000 USD,265203,A,Chiffre officiel
+199,"Manioc, frais",2020,1000 USD,253504,A,Chiffre officiel
+200,"Manioc, frais",2021,1000 USD,286658,A,Chiffre officiel
+201,"Manioc, frais",2022,1000 USD,263085,A,Chiffre officiel
+202,"Manioc, frais",2023,1000 USD,272834,E,Valeur estimée
+203,"Manioc, frais",2024,1000 USD,286251,E,Valeur estimée
+204,Mils,2010,1000 USD,14181,A,Chiffre officiel
+205,Mils,2011,1000 USD,16863,A,Chiffre officiel
+206,Mils,2012,1000 USD,10310,A,Chiffre officiel
+207,Mils,2013,1000 USD,29087,A,Chiffre officiel
+208,Mils,2014,1000 USD,6493,A,Chiffre officiel
+209,Mils,2015,1000 USD,12155,A,Chiffre officiel
+210,Mils,2016,1000 USD,9735,A,Chiffre officiel
+211,Mils,2017,1000 USD,12021,A,Chiffre officiel
+212,Mils,2018,1000 USD,13617,A,Chiffre officiel
+213,Mils,2019,1000 USD,10202,A,Chiffre officiel
+214,Mils,2020,1000 USD,13912,A,Chiffre officiel
+215,Mils,2021,1000 USD,16147,A,Chiffre officiel
+216,Mils,2022,1000 USD,15663,A,Chiffre officiel
+217,Mils,2023,1000 USD,17191,E,Valeur estimée
+218,Mils,2024,1000 USD,16903,E,Valeur estimée
+219,Noix de coco,2010,1000 USD,4617,E,Valeur estimée
+220,Noix de coco,2011,1000 USD,5146,E,Valeur estimée
+221,Noix de coco,2012,1000 USD,4985,E,Valeur estimée
+222,Noix de coco,2013,1000 USD,5017,E,Valeur estimée
+223,Noix de coco,2014,1000 USD,4178,E,Valeur estimée
+224,Noix de coco,2015,1000 USD,3640,E,Valeur estimée
+225,Noix de coco,2016,1000 USD,4074,E,Valeur estimée
+226,Noix de coco,2017,1000 USD,4322,E,Valeur estimée
+227,Noix de coco,2018,1000 USD,4690,E,Valeur estimée
+228,Noix de coco,2019,1000 USD,4562,E,Valeur estimée
+229,Noix de coco,2020,1000 USD,4773,E,Valeur estimée
+230,Noix de coco,2021,1000 USD,6155,E,Valeur estimée
+231,Noix de coco,2022,1000 USD,6136,E,Valeur estimée
+232,Noix de coco,2023,1000 USD,6527,E,Valeur estimée
+233,Noix de coco,2024,1000 USD,6697,E,Valeur estimée
+234,Noix de karite,2010,1000 USD,2382,E,Valeur estimée
+235,Noix de karite,2011,1000 USD,3174,E,Valeur estimée
+236,Noix de karite,2012,1000 USD,4017,E,Valeur estimée
+237,Noix de karite,2013,1000 USD,4600,E,Valeur estimée
+238,Noix de karite,2014,1000 USD,4585,E,Valeur estimée
+239,Noix de karite,2015,1000 USD,3971,E,Valeur estimée
+240,Noix de karite,2016,1000 USD,4144,E,Valeur estimée
+241,Noix de karite,2017,1000 USD,4384,E,Valeur estimée
+242,Noix de karite,2018,1000 USD,4723,E,Valeur estimée
+243,Noix de karite,2019,1000 USD,4644,E,Valeur estimée
+244,Noix de karite,2020,1000 USD,4557,E,Valeur estimée
+245,Noix de karite,2021,1000 USD,4569,E,Valeur estimée
+246,Noix de karite,2022,1000 USD,4034,E,Valeur estimée
+247,Noix de karite,2023,1000 USD,4123,E,Valeur estimée
+248,Noix de karite,2024,1000 USD,4128,E,Valeur estimée
+249,Oranges,2010,1000 USD,4040,E,Valeur estimée
+250,Oranges,2011,1000 USD,3679,E,Valeur estimée
+251,Oranges,2012,1000 USD,2897,E,Valeur estimée
+252,Oranges,2013,1000 USD,3781,E,Valeur estimée
+253,Oranges,2014,1000 USD,5597,E,Valeur estimée
+254,Oranges,2015,1000 USD,5299,E,Valeur estimée
+255,Oranges,2016,1000 USD,5165,E,Valeur estimée
+256,Oranges,2017,1000 USD,6004,E,Valeur estimée
+257,Oranges,2018,1000 USD,6124,E,Valeur estimée
+258,Oranges,2019,1000 USD,3494,E,Valeur estimée
+259,Oranges,2020,1000 USD,3790,E,Valeur estimée
+260,Oranges,2021,1000 USD,5265,E,Valeur estimée
+261,Oranges,2022,1000 USD,4533,E,Valeur estimée
+262,Oranges,2023,1000 USD,4826,E,Valeur estimée
+263,Oranges,2024,1000 USD,5108,E,Valeur estimée
+264,Patates douces,2010,1000 USD,1200,A,Chiffre officiel
+265,Patates douces,2011,1000 USD,1517,A,Chiffre officiel
+266,Patates douces,2012,1000 USD,6958,A,Chiffre officiel
+267,Patates douces,2013,1000 USD,3970,A,Chiffre officiel
+268,Patates douces,2014,1000 USD,4069,A,Chiffre officiel
+269,Patates douces,2015,1000 USD,1964,A,Chiffre officiel
+270,Patates douces,2016,1000 USD,716,A,Chiffre officiel
+271,Patates douces,2017,1000 USD,2737,A,Chiffre officiel
+272,Patates douces,2018,1000 USD,2879,A,Chiffre officiel
+273,Patates douces,2019,1000 USD,2368,A,Chiffre officiel
+274,Patates douces,2020,1000 USD,2764,A,Chiffre officiel
+275,Patates douces,2021,1000 USD,2832,A,Chiffre officiel
+276,Patates douces,2022,1000 USD,2592,A,Chiffre officiel
+277,Patates douces,2023,1000 USD,2125,E,Valeur estimée
+278,Patates douces,2024,1000 USD,1793,E,Valeur estimée
+279,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2010,1000 USD,301,E,Valeur estimée
+280,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2011,1000 USD,400,E,Valeur estimée
+281,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2012,1000 USD,416,E,Valeur estimée
+282,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2013,1000 USD,908,E,Valeur estimée
+283,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2014,1000 USD,2660,E,Valeur estimée
+284,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2015,1000 USD,2030,E,Valeur estimée
+285,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2016,1000 USD,1618,E,Valeur estimée
+286,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2017,1000 USD,2712,E,Valeur estimée
+287,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2018,1000 USD,3068,E,Valeur estimée
+288,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2019,1000 USD,2525,E,Valeur estimée
+289,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2020,1000 USD,2841,E,Valeur estimée
+290,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2021,1000 USD,2900,E,Valeur estimée
+291,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2022,1000 USD,2438,E,Valeur estimée
+292,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2023,1000 USD,2520,E,Valeur estimée
+293,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2024,1000 USD,2490,E,Valeur estimée
+294,Riz,2010,1000 USD,31569,A,Chiffre officiel
+295,Riz,2011,1000 USD,41386,A,Chiffre officiel
+296,Riz,2012,1000 USD,57374,A,Chiffre officiel
+297,Riz,2013,1000 USD,66831,A,Chiffre officiel
+298,Riz,2014,1000 USD,62234,A,Chiffre officiel
+299,Riz,2015,1000 USD,52411,A,Chiffre officiel
+300,Riz,2016,1000 USD,53213,A,Chiffre officiel
+301,Riz,2017,1000 USD,42350,A,Chiffre officiel
+302,Riz,2018,1000 USD,52648,A,Chiffre officiel
+303,Riz,2019,1000 USD,44173,A,Chiffre officiel
+304,Riz,2020,1000 USD,47768,A,Chiffre officiel
+305,Riz,2021,1000 USD,59705,A,Chiffre officiel
+306,Riz,2022,1000 USD,61452,A,Chiffre officiel
+307,Riz,2023,1000 USD,66598,E,Valeur estimée
+308,Riz,2024,1000 USD,63952,E,Valeur estimée
+309,Sésame,2010,1000 USD,1426,E,Valeur estimée
+310,Sésame,2011,1000 USD,1689,E,Valeur estimée
+311,Sésame,2012,1000 USD,1945,E,Valeur estimée
+312,Sésame,2013,1000 USD,2075,E,Valeur estimée
+313,Sésame,2014,1000 USD,2057,E,Valeur estimée
+314,Sésame,2015,1000 USD,1584,E,Valeur estimée
+315,Sésame,2016,1000 USD,1791,E,Valeur estimée
+316,Sésame,2017,1000 USD,1746,E,Valeur estimée
+317,Sésame,2018,1000 USD,2470,E,Valeur estimée
+318,Sésame,2019,1000 USD,1798,E,Valeur estimée
+319,Sésame,2020,1000 USD,1964,E,Valeur estimée
+320,Sésame,2021,1000 USD,2071,E,Valeur estimée
+321,Sésame,2022,1000 USD,1879,E,Valeur estimée
+322,Sésame,2023,1000 USD,1926,E,Valeur estimée
+323,Sésame,2024,1000 USD,2023,E,Valeur estimée
+324,Sorgho,2010,1000 USD,79042,A,Chiffre officiel
+325,Sorgho,2011,1000 USD,99500,A,Chiffre officiel
+326,Sorgho,2012,1000 USD,97796,A,Chiffre officiel
+327,Sorgho,2013,1000 USD,133406,A,Chiffre officiel
+328,Sorgho,2014,1000 USD,122555,A,Chiffre officiel
+329,Sorgho,2015,1000 USD,86982,A,Chiffre officiel
+330,Sorgho,2016,1000 USD,107250,A,Chiffre officiel
+331,Sorgho,2017,1000 USD,116525,A,Chiffre officiel
+332,Sorgho,2018,1000 USD,115798,A,Chiffre officiel
+333,Sorgho,2019,1000 USD,99353,A,Chiffre officiel
+334,Sorgho,2020,1000 USD,123166,A,Chiffre officiel
+335,Sorgho,2021,1000 USD,129869,A,Chiffre officiel
+336,Sorgho,2022,1000 USD,122901,A,Chiffre officiel
+337,Sorgho,2023,1000 USD,137344,E,Valeur estimée
+338,Sorgho,2024,1000 USD,141364,E,Valeur estimée
+339,Taro,2010,1000 USD,7573,A,Chiffre officiel
+340,Taro,2011,1000 USD,7828,A,Chiffre officiel
+341,Taro,2012,1000 USD,6440,A,Chiffre officiel
+342,Taro,2013,1000 USD,9372,A,Chiffre officiel
+343,Taro,2014,1000 USD,6318,A,Chiffre officiel
+344,Taro,2015,1000 USD,5468,E,Valeur estimée
+345,Taro,2016,1000 USD,6205,A,Chiffre officiel
+346,Taro,2017,1000 USD,5638,A,Chiffre officiel
+347,Taro,2018,1000 USD,7008,A,Chiffre officiel
+348,Taro,2019,1000 USD,4055,A,Chiffre officiel
+349,Taro,2020,1000 USD,7249,A,Chiffre officiel
+350,Taro,2021,1000 USD,7642,A,Chiffre officiel
+351,Taro,2022,1000 USD,6982,A,Chiffre officiel
+352,Taro,2023,1000 USD,7575,E,Valeur estimée
+353,Taro,2024,1000 USD,6881,E,Valeur estimée
+354,"Tomates, fraiches",2010,1000 USD,4337,E,Valeur estimée
+355,"Tomates, fraiches",2011,1000 USD,4454,E,Valeur estimée
+356,"Tomates, fraiches",2012,1000 USD,3082,E,Valeur estimée
+357,"Tomates, fraiches",2013,1000 USD,3207,E,Valeur estimée
+358,"Tomates, fraiches",2014,1000 USD,3879,E,Valeur estimée
+359,"Tomates, fraiches",2015,1000 USD,3144,E,Valeur estimée
+360,"Tomates, fraiches",2016,1000 USD,2863,E,Valeur estimée
+361,"Tomates, fraiches",2017,1000 USD,3335,E,Valeur estimée
+362,"Tomates, fraiches",2018,1000 USD,3264,E,Valeur estimée
+363,"Tomates, fraiches",2019,1000 USD,3516,E,Valeur estimée
+364,"Tomates, fraiches",2020,1000 USD,4080,E,Valeur estimée
+365,"Tomates, fraiches",2021,1000 USD,4321,E,Valeur estimée
+366,"Tomates, fraiches",2022,1000 USD,3306,E,Valeur estimée
+367,"Tomates, fraiches",2023,1000 USD,3295,E,Valeur estimée
+368,"Tomates, fraiches",2024,1000 USD,3221,E,Valeur estimée
+369,Agriculture,2010,1000 USD,1467902,E,Valeur estimée
+370,Agriculture,2011,1000 USD,1808469,E,Valeur estimée
+371,Agriculture,2012,1000 USD,1688020,A,Chiffre officiel
+372,Agriculture,2013,1000 USD,1541176,A,Chiffre officiel
+373,Agriculture,2014,1000 USD,1729215,A,Chiffre officiel
+374,Agriculture,2015,1000 USD,1487485,A,Chiffre officiel
+375,Agriculture,2016,1000 USD,1669463,E,Valeur estimée
+376,Agriculture,2017,1000 USD,1951138,A,Chiffre officiel
+377,Agriculture,2018,1000 USD,2025691,E,Valeur estimée
+378,Agriculture,2019,1000 USD,1954920,E,Valeur estimée
+379,Agriculture,2020,1000 USD,1967286,A,Chiffre officiel
+380,Agriculture,2021,1000 USD,2408411,A,Chiffre officiel
+381,Agriculture,2022,1000 USD,2371667,A,Chiffre officiel
+382,Agriculture,2023,1000 USD,2403302,E,Valeur estimée
+383,Agriculture,2024,1000 USD,2445430,E,Valeur estimée
+384,"Céréales, primaires",2010,1000 USD,300698,A,Chiffre officiel
+385,"Céréales, primaires",2011,1000 USD,372181,A,Chiffre officiel
+386,"Céréales, primaires",2012,1000 USD,427643,A,Chiffre officiel
+387,"Céréales, primaires",2013,1000 USD,446264,A,Chiffre officiel
+388,"Céréales, primaires",2014,1000 USD,410200,A,Chiffre officiel
+389,"Céréales, primaires",2015,1000 USD,367892,A,Chiffre officiel
+390,"Céréales, primaires",2016,1000 USD,410815,A,Chiffre officiel
+391,"Céréales, primaires",2017,1000 USD,411787,A,Chiffre officiel
+392,"Céréales, primaires",2018,1000 USD,429525,A,Chiffre officiel
+393,"Céréales, primaires",2019,1000 USD,384749,A,Chiffre officiel
+394,"Céréales, primaires",2020,1000 USD,431882,A,Chiffre officiel
+395,"Céréales, primaires",2021,1000 USD,567249,A,Chiffre officiel
+396,"Céréales, primaires",2022,1000 USD,587702,A,Chiffre officiel
+397,"Céréales, primaires",2023,1000 USD,591868,E,Valeur estimée
+398,"Céréales, primaires",2024,1000 USD,564152,E,Valeur estimée
+399,Fruits Prim et Melons,2010,1000 USD,23132,E,Valeur estimée
+400,Fruits Prim et Melons,2011,1000 USD,23358,E,Valeur estimée
+401,Fruits Prim et Melons,2012,1000 USD,23697,E,Valeur estimée
+402,Fruits Prim et Melons,2013,1000 USD,27103,E,Valeur estimée
+403,Fruits Prim et Melons,2014,1000 USD,34847,E,Valeur estimée
+404,Fruits Prim et Melons,2015,1000 USD,28391,E,Valeur estimée
+405,Fruits Prim et Melons,2016,1000 USD,31528,E,Valeur estimée
+406,Fruits Prim et Melons,2017,1000 USD,35532,E,Valeur estimée
+407,Fruits Prim et Melons,2018,1000 USD,51650,E,Valeur estimée
+408,Fruits Prim et Melons,2019,1000 USD,40515,E,Valeur estimée
+409,Fruits Prim et Melons,2020,1000 USD,37935,E,Valeur estimée
+410,Fruits Prim et Melons,2021,1000 USD,39727,E,Valeur estimée
+411,Fruits Prim et Melons,2022,1000 USD,31089,E,Valeur estimée
+412,Fruits Prim et Melons,2023,1000 USD,33588,E,Valeur estimée
+413,Fruits Prim et Melons,2024,1000 USD,34430,E,Valeur estimée
+414,Légumes Prim Exc Melons,2010,1000 USD,112654,E,Valeur estimée
+415,Légumes Prim Exc Melons,2011,1000 USD,122150,E,Valeur estimée
+416,Légumes Prim Exc Melons,2012,1000 USD,122022,E,Valeur estimée
+417,Légumes Prim Exc Melons,2013,1000 USD,123250,E,Valeur estimée
+418,Légumes Prim Exc Melons,2014,1000 USD,123753,E,Valeur estimée
+419,Légumes Prim Exc Melons,2015,1000 USD,103705,E,Valeur estimée
+420,Légumes Prim Exc Melons,2016,1000 USD,103525,E,Valeur estimée
+421,Légumes Prim Exc Melons,2017,1000 USD,108727,E,Valeur estimée
+422,Légumes Prim Exc Melons,2018,1000 USD,110045,E,Valeur estimée
+423,Légumes Prim Exc Melons,2019,1000 USD,94166,E,Valeur estimée
+424,Légumes Prim Exc Melons,2020,1000 USD,93281,E,Valeur estimée
+425,Légumes Prim Exc Melons,2021,1000 USD,109680,E,Valeur estimée
+426,Légumes Prim Exc Melons,2022,1000 USD,103334,E,Valeur estimée
+427,Légumes Prim Exc Melons,2023,1000 USD,111428,E,Valeur estimée
+428,Légumes Prim Exc Melons,2024,1000 USD,116561,E,Valeur estimée
+429,"Racines&Tubercules, total",2010,1000 USD,410804,A,Chiffre officiel
+430,"Racines&Tubercules, total",2011,1000 USD,486524,A,Chiffre officiel
+431,"Racines&Tubercules, total",2012,1000 USD,570934,A,Chiffre officiel
+432,"Racines&Tubercules, total",2013,1000 USD,452856,A,Chiffre officiel
+433,"Racines&Tubercules, total",2014,1000 USD,580818,A,Chiffre officiel
+434,"Racines&Tubercules, total",2015,1000 USD,506857,A,Chiffre officiel
+435,"Racines&Tubercules, total",2016,1000 USD,545241,A,Chiffre officiel
+436,"Racines&Tubercules, total",2017,1000 USD,754319,A,Chiffre officiel
+437,"Racines&Tubercules, total",2018,1000 USD,658853,A,Chiffre officiel
+438,"Racines&Tubercules, total",2019,1000 USD,718811,A,Chiffre officiel
+439,"Racines&Tubercules, total",2020,1000 USD,663576,A,Chiffre officiel
+440,"Racines&Tubercules, total",2021,1000 USD,748612,A,Chiffre officiel
+441,"Racines&Tubercules, total",2022,1000 USD,691824,A,Chiffre officiel
+442,"Racines&Tubercules, total",2023,1000 USD,712731,E,Valeur estimée
+443,"Racines&Tubercules, total",2024,1000 USD,754172,E,Valeur estimée
+444,Vegetables and Fruit Primary,2010,1000 USD,135786,E,Valeur estimée
+445,Vegetables and Fruit Primary,2011,1000 USD,145508,E,Valeur estimée
+446,Vegetables and Fruit Primary,2012,1000 USD,145720,E,Valeur estimée
+447,Vegetables and Fruit Primary,2013,1000 USD,150353,E,Valeur estimée
+448,Vegetables and Fruit Primary,2014,1000 USD,158600,E,Valeur estimée
+449,Vegetables and Fruit Primary,2015,1000 USD,132097,E,Valeur estimée
+450,Vegetables and Fruit Primary,2016,1000 USD,135053,E,Valeur estimée
+451,Vegetables and Fruit Primary,2017,1000 USD,144259,E,Valeur estimée
+452,Vegetables and Fruit Primary,2018,1000 USD,161695,E,Valeur estimée
+453,Vegetables and Fruit Primary,2019,1000 USD,134682,E,Valeur estimée
+454,Vegetables and Fruit Primary,2020,1000 USD,131216,E,Valeur estimée
+455,Vegetables and Fruit Primary,2021,1000 USD,149407,E,Valeur estimée
+456,Vegetables and Fruit Primary,2022,1000 USD,134423,E,Valeur estimée
+457,Vegetables and Fruit Primary,2023,1000 USD,145016,E,Valeur estimée
+458,Vegetables and Fruit Primary,2024,1000 USD,150991,E,Valeur estimée

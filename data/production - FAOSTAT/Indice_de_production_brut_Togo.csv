@@ -1,0 +1,323 @@
+,Produit,Année,Unité,Valeur
+0,Arachides non décortiquées,2010,,114.12
+1,Arachides non décortiquées,2011,,116.26
+2,Arachides non décortiquées,2012,,107.1
+3,Arachides non décortiquées,2013,,95.48
+4,Arachides non décortiquées,2014,,99.8
+5,Arachides non décortiquées,2015,,100.39
+6,Arachides non décortiquées,2016,,99.8
+7,Arachides non décortiquées,2017,,106.75
+8,Arachides non décortiquées,2018,,107.61
+9,Arachides non décortiquées,2019,,109.42
+10,Arachides non décortiquées,2020,,106.54
+11,Arachides non décortiquées,2021,,108.89
+12,Arachides non décortiquées,2022,,110.63
+13,Arachides non décortiquées,2023,,110.45
+14,Arachides non décortiquées,2024,,112.9
+15,Ceréales n.a.c.,2010,,40.57
+16,Ceréales n.a.c.,2011,,28.82
+17,Ceréales n.a.c.,2012,,74.6
+18,Ceréales n.a.c.,2013,,92.23
+19,Ceréales n.a.c.,2014,,114.24
+20,Ceréales n.a.c.,2015,,110.2
+21,Ceréales n.a.c.,2016,,75.56
+22,"Coton en graine, non égrené",2010,,42.98
+23,"Coton en graine, non égrené",2011,,83.58
+24,"Coton en graine, non égrené",2012,,80.69
+25,"Coton en graine, non égrené",2013,,77.82
+26,"Coton en graine, non égrené",2014,,105.96
+27,"Coton en graine, non égrené",2015,,81.08
+28,"Coton en graine, non égrené",2016,,112.96
+29,"Coton en graine, non égrené",2017,,117.12
+30,"Coton en graine, non égrené",2018,,137.21
+31,"Coton en graine, non égrené",2019,,116.53
+32,"Coton en graine, non égrené",2020,,68.14
+33,"Coton en graine, non égrené",2021,,50.44
+34,"Coton en graine, non égrené",2022,,52.3
+35,"Coton en graine, non égrené",2023,,52.7
+36,"Coton en graine, non égrené",2024,,51.42
+37,Fèves de soja,2010,,7.09
+38,Fèves de soja,2011,,15.55
+39,Fèves de soja,2012,,29.3
+40,Fèves de soja,2013,,45.09
+41,Fèves de soja,2014,,65.85
+42,Fèves de soja,2015,,88.58
+43,Fèves de soja,2016,,145.57
+44,Fèves de soja,2017,,213.83
+45,Fèves de soja,2018,,327.3
+46,Fèves de soja,2019,,436.0
+47,Fèves de soja,2020,,547.59
+48,Fèves de soja,2021,,735.59
+49,Fèves de soja,2022,,837.8
+50,Fèves de soja,2023,,921.24
+51,Fèves de soja,2024,,1007.49
+52,Graines de ricin,2010,,87.34
+53,Graines de ricin,2011,,89.91
+54,Graines de ricin,2012,,96.33
+55,Graines de ricin,2013,,96.33
+56,Graines de ricin,2014,,99.09
+57,Graines de ricin,2015,,101.82
+58,Graines de ricin,2016,,99.08
+59,Graines de ricin,2017,,103.19
+60,Graines de ricin,2018,,106.11
+61,Graines de ricin,2019,,102.79
+62,Graines de ricin,2020,,105.11
+63,Graines de ricin,2021,,104.67
+64,Graines de ricin,2022,,104.19
+65,Graines de ricin,2023,,104.66
+66,Graines de ricin,2024,,104.51
+67,"Huile, noix de palme",2010,,100.72
+68,"Huile, noix de palme",2011,,100.67
+69,"Huile, noix de palme",2012,,100.7
+70,"Huile, noix de palme",2013,,99.95
+71,"Huile, noix de palme",2014,,99.75
+72,"Huile, noix de palme",2015,,99.98
+73,"Huile, noix de palme",2016,,100.27
+74,"Huile, noix de palme",2017,,100.6
+75,"Huile, noix de palme",2018,,101.01
+76,"Huile, noix de palme",2019,,100.43
+77,"Huile, noix de palme",2020,,101.29
+78,"Huile, noix de palme",2021,,103.89
+79,"Huile, noix de palme",2022,,112.81
+80,"Huile, noix de palme",2023,,121.9
+81,"Huile, noix de palme",2024,,123.91
+82,Ignames,2010,,89.49
+83,Ignames,2011,,91.66
+84,Ignames,2012,,108.88
+85,Ignames,2013,,83.28
+86,Ignames,2014,,99.05
+87,Ignames,2015,,98.42
+88,Ignames,2016,,102.53
+89,Ignames,2017,,104.11
+90,Ignames,2018,,108.17
+91,Ignames,2019,,110.12
+92,Ignames,2020,,118.51
+93,Ignames,2021,,120.97
+94,Ignames,2022,,124.02
+95,Ignames,2023,,122.56
+96,Ignames,2024,,123.74
+97,Maïs,2010,,77.99
+98,Maïs,2011,,79.54
+99,Maïs,2012,,100.92
+100,Maïs,2013,,84.65
+101,Maïs,2014,,101.81
+102,Maïs,2015,,97.12
+103,Maïs,2016,,101.06
+104,Maïs,2017,,104.46
+105,Maïs,2018,,108.36
+106,Maïs,2019,,111.47
+107,Maïs,2020,,108.17
+108,Maïs,2021,,113.54
+109,Maïs,2022,,116.97
+110,Maïs,2023,,123.81
+111,Maïs,2024,,123.44
+112,"Manioc, frais",2010,,84.67
+113,"Manioc, frais",2011,,93.04
+114,"Manioc, frais",2012,,89.44
+115,"Manioc, frais",2013,,84.12
+116,"Manioc, frais",2014,,107.44
+117,"Manioc, frais",2015,,96.82
+118,"Manioc, frais",2016,,95.74
+119,"Manioc, frais",2017,,97.06
+120,"Manioc, frais",2018,,101.51
+121,"Manioc, frais",2019,,104.16
+122,"Manioc, frais",2020,,107.9
+123,"Manioc, frais",2021,,112.21
+124,"Manioc, frais",2022,,114.11
+125,"Manioc, frais",2023,,116.0
+126,"Manioc, frais",2024,,118.06
+127,Mils,2010,,192.14
+128,Mils,2011,,188.75
+129,Mils,2012,,103.83
+130,Mils,2013,,241.52
+131,Mils,2014,,65.75
+132,Mils,2015,,144.91
+133,Mils,2016,,89.34
+134,Mils,2017,,97.61
+135,Mils,2018,,97.75
+136,Mils,2019,,100.47
+137,Mils,2020,,102.08
+138,Mils,2021,,103.58
+139,Mils,2022,,104.62
+140,Mils,2023,,108.69
+141,Mils,2024,,104.94
+142,Noix de coco,2010,,129.84
+143,Noix de coco,2011,,131.25
+144,Noix de coco,2012,,131.22
+145,Noix de coco,2013,,122.16
+146,Noix de coco,2014,,97.5
+147,Noix de coco,2015,,97.5
+148,Noix de coco,2016,,105.0
+149,Noix de coco,2017,,105.0
+150,Noix de coco,2018,,105.0
+151,Noix de coco,2019,,103.13
+152,Noix de coco,2020,,103.13
+153,Noix de coco,2021,,123.8
+154,Noix de coco,2022,,135.05
+155,Noix de coco,2023,,135.0
+156,Noix de coco,2024,,134.26
+157,Noix de karite,2010,,88.1
+158,Noix de karite,2011,,87.71
+159,Noix de karite,2012,,93.97
+160,Noix de karite,2013,,100.24
+161,Noix de karite,2014,,97.96
+162,Noix de karite,2015,,99.65
+163,Noix de karite,2016,,102.38
+164,Noix de karite,2017,,104.52
+165,Noix de karite,2018,,106.35
+166,Noix de karite,2019,,108.71
+167,Noix de karite,2020,,106.53
+168,Noix de karite,2021,,107.2
+169,Noix de karite,2022,,107.48
+170,Noix de karite,2023,,107.07
+171,Noix de karite,2024,,107.25
+172,Patates douces,2010,,63.27
+173,Patates douces,2011,,63.1
+174,Patates douces,2012,,265.68
+175,Patates douces,2013,,150.93
+176,Patates douces,2014,,153.06
+177,Patates douces,2015,,110.51
+178,Patates douces,2016,,36.44
+179,Patates douces,2017,,116.25
+180,Patates douces,2018,,113.84
+181,Patates douces,2019,,115.45
+182,Patates douces,2020,,123.85
+183,Patates douces,2021,,129.05
+184,Patates douces,2022,,132.05
+185,Patates douces,2023,,103.4
+186,Patates douces,2024,,84.85
+187,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2010,,21.58
+188,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2011,,22.98
+189,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2012,,23.63
+190,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2013,,43.38
+191,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2014,,119.18
+192,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2015,,102.74
+193,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2016,,78.08
+194,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2017,,123.29
+195,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2018,,129.45
+196,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2019,,110.27
+197,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2020,,121.0
+198,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2021,,120.24
+199,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2022,,117.17
+200,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2023,,119.47
+201,"Racines et tubercules similaires à haute teneur en fécule ou en inuline, n.c.a., fraîches",2024,,118.96
+202,Riz,2010,,77.54
+203,Riz,2011,,79.04
+204,Riz,2012,,113.34
+205,Riz,2013,,118.03
+206,Riz,2014,,104.18
+207,Riz,2015,,99.26
+208,Riz,2016,,96.56
+209,Riz,2017,,98.96
+210,Riz,2018,,102.46
+211,Riz,2019,,103.56
+212,Riz,2020,,112.58
+213,Riz,2021,,116.58
+214,Riz,2022,,119.45
+215,Riz,2023,,128.95
+216,Riz,2024,,126.9
+217,Sésame,2010,,77.53
+218,Sésame,2011,,89.37
+219,Sésame,2012,,109.02
+220,Sésame,2013,,109.02
+221,Sésame,2014,,104.95
+222,Sésame,2015,,92.8
+223,Sésame,2016,,102.26
+224,Sésame,2017,,104.87
+225,Sésame,2018,,99.98
+226,Sésame,2019,,97.35
+227,Sésame,2020,,95.82
+228,Sésame,2021,,100.68
+229,Sésame,2022,,101.45
+230,Sésame,2023,,102.01
+231,Sésame,2024,,102.58
+232,Sorgho,2010,,86.23
+233,Sorgho,2011,,85.74
+234,Sorgho,2012,,88.42
+235,Sorgho,2013,,100.56
+236,Sorgho,2014,,108.4
+237,Sorgho,2015,,95.46
+238,Sorgho,2016,,96.14
+239,Sorgho,2017,,97.33
+240,Sorgho,2018,,97.71
+241,Sorgho,2019,,99.59
+242,Sorgho,2020,,98.37
+243,Sorgho,2021,,97.62
+244,Sorgho,2022,,98.97
+245,Sorgho,2023,,105.73
+246,Sorgho,2024,,109.26
+247,Taro,2010,,131.11
+248,Taro,2011,,132.69
+249,Taro,2012,,73.71
+250,Taro,2013,,129.77
+251,Taro,2014,,74.94
+252,Taro,2015,,107.87
+253,Taro,2016,,117.19
+254,Taro,2017,,95.88
+255,Taro,2018,,106.79
+256,Taro,2019,,112.74
+257,Taro,2020,,122.21
+258,Taro,2021,,124.11
+259,Taro,2022,,125.85
+260,Taro,2023,,119.98
+261,Taro,2024,,118.81
+262,Agriculture,2010,,91.08
+263,Agriculture,2011,,101.07
+264,Agriculture,2012,,97.53
+265,Agriculture,2013,,88.95
+266,Agriculture,2014,,101.19
+267,Agriculture,2015,,97.27
+268,Agriculture,2016,,101.54
+269,Agriculture,2017,,106.63
+270,Agriculture,2018,,112.13
+271,Agriculture,2019,,113.99
+272,Agriculture,2020,,112.73
+273,Agriculture,2021,,116.58
+274,Agriculture,2022,,122.64
+275,Agriculture,2023,,126.84
+276,Agriculture,2024,,128.96
+277,"Céréales, primaires",2010,,82.64
+278,"Céréales, primaires",2011,,83.56
+279,"Céréales, primaires",2012,,100.61
+280,"Céréales, primaires",2013,,98.76
+281,"Céréales, primaires",2014,,102.72
+282,"Céréales, primaires",2015,,98.55
+283,"Céréales, primaires",2016,,98.73
+284,"Céréales, primaires",2017,,102.22
+285,"Céréales, primaires",2018,,105.18
+286,"Céréales, primaires",2019,,107.67
+287,"Céréales, primaires",2020,,107.42
+288,"Céréales, primaires",2021,,111.13
+289,"Céréales, primaires",2022,,113.95
+290,"Céréales, primaires",2023,,121.22
+291,"Céréales, primaires",2024,,121.33
+292,"Racines&Tubercules, total",2010,,87.8
+293,"Racines&Tubercules, total",2011,,92.53
+294,"Racines&Tubercules, total",2012,,100.67
+295,"Racines&Tubercules, total",2013,,84.49
+296,"Racines&Tubercules, total",2014,,102.47
+297,"Racines&Tubercules, total",2015,,97.96
+298,"Racines&Tubercules, total",2016,,99.57
+299,"Racines&Tubercules, total",2017,,101.15
+300,"Racines&Tubercules, total",2018,,105.46
+301,"Racines&Tubercules, total",2019,,107.7
+302,"Racines&Tubercules, total",2020,,114.17
+303,"Racines&Tubercules, total",2021,,117.4
+304,"Racines&Tubercules, total",2022,,119.93
+305,"Racines&Tubercules, total",2023,,119.7
+306,"Racines&Tubercules, total",2024,,121.12
+307,Vegetables and Fruit Primary,2010,,95.45
+308,Vegetables and Fruit Primary,2011,,95.39
+309,Vegetables and Fruit Primary,2012,,100.72
+310,Vegetables and Fruit Primary,2013,,99.24
+311,Vegetables and Fruit Primary,2014,,99.53
+312,Vegetables and Fruit Primary,2015,,100.0
+313,Vegetables and Fruit Primary,2016,,100.46
+314,Vegetables and Fruit Primary,2017,,100.3
+315,Vegetables and Fruit Primary,2018,,100.82
+316,Vegetables and Fruit Primary,2019,,101.41
+317,Vegetables and Fruit Primary,2020,,101.25
+318,Vegetables and Fruit Primary,2021,,102.08
+319,Vegetables and Fruit Primary,2022,,102.44
+320,Vegetables and Fruit Primary,2023,,102.65
+321,Vegetables and Fruit Primary,2024,,102.99
