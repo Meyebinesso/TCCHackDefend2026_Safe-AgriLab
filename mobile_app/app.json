@@ -25,8 +25,7 @@
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "expo-sqlite",
-      "@react-native-voice/voice"
+      "expo-sqlite"
     ],
     "extra": {
       "eas": {
