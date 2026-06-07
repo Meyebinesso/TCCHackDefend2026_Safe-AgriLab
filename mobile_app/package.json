@@ -39,7 +39,9 @@
   },
   "private": true,
   "devDependencies": {
+    "babel-preset-expo": "^56.0.14",
     "patch-package": "^8.0.1",
-    "postinstall-postinstall": "^2.1.0"
+    "postinstall-postinstall": "^2.1.0",
+    "sharp": "^0.34.5"
   }
 }
