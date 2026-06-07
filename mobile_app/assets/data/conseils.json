@@ -1,0 +1,85 @@
+{
+  "cereales": {
+    "bon": {
+      "titre": "Conditions favorables",
+      "action": "Plantez avec confiance !",
+      "conseils": [
+        "Les conditions météo sont optimales pour vos céréales.",
+        "Pensez à désherber régulièrement pour éviter la compétition en nutriments.",
+        "Un apport d'engrais organique renforcera la croissance."
+      ]
+    },
+    "moyen": {
+      "titre": "Conditions acceptables",
+      "action": "Restez vigilant.",
+      "conseils": [
+        "Le rendement pourrait être légèrement impacté.",
+        "Assurez-vous de bien espacer les plants pour limiter le stress hydrique.",
+        "Préparez un paillage pour conserver l'humidité du sol."
+      ]
+    },
+    "critique": {
+      "titre": "Conditions très difficiles",
+      "action": "Envisagez une culture alternative ou décalez vos semis.",
+      "conseils": [
+        "Le risque de perte de récolte est élevé.",
+        "Si vous devez semer, privilégiez des variétés locales à cycle court.",
+        "Ne dépensez pas trop en intrants, le climat ne permet pas d'en tirer profit."
+      ]
+    }
+  },
+  "tubercules": {
+    "bon": {
+      "titre": "Sol et climat optimaux",
+      "action": "Plantez avec confiance !",
+      "conseils": [
+        "Le sol a l'humidité parfaite pour le développement des tubercules.",
+        "Faites de bonnes buttes pour faciliter le développement racinaire."
+      ]
+    },
+    "moyen": {
+      "titre": "Conditions moyennes",
+      "action": "Adaptez vos buttes.",
+      "conseils": [
+        "La production peut ralentir.",
+        "Binez la terre pour casser la croûte de battance et aérer le sol.",
+        "Surveillez les signes de pourriture si le sol reste trop humide."
+      ]
+    },
+    "critique": {
+      "titre": "Stress hydrique ou thermique",
+      "action": "Risque majeur pour le rendement.",
+      "conseils": [
+        "Les tubercules risquent de mal se former ou de pourrir.",
+        "Retardez la plantation jusqu'à ce que les pluies se stabilisent.",
+        "Envisagez une culture de céréales si la saison est déjà avancée."
+      ]
+    }
+  },
+  "default": {
+    "bon": {
+      "titre": "Conditions optimales",
+      "action": "Saison prometteuse.",
+      "conseils": [
+        "Maintenez vos bonnes pratiques agricoles.",
+        "Surveillez les ravageurs habituels de la saison."
+      ]
+    },
+    "moyen": {
+      "titre": "Conditions moyennes",
+      "action": "Surveillez vos parcelles.",
+      "conseils": [
+        "Appliquez du compost pour aider la plante à résister au stress.",
+        "Limitez le travail profond du sol."
+      ]
+    },
+    "critique": {
+      "titre": "Alerte Climatique",
+      "action": "Prudence maximale.",
+      "conseils": [
+        "Les conditions ne sont pas réunies pour cette culture.",
+        "Évitez les gros investissements sur cette parcelle pour l'instant."
+      ]
+    }
+  }
+}
