@@ -1,0 +1,61 @@
+# ===========================
+# Safe_AgriLab - .gitignore
+# ===========================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+.eggs/
+dist/
+build/
+*.whl
+.venv/
+venv/
+env/
+
+# --- Modèles ML (trop lourds pour Git) ---
+# Le .pkl de 45 MB va bloquer le push
+model/market_rf_model.pkl
+model/agronomy_rf_model.pkl
+models/random_forest_model.pkl
+*.onnx
+
+# --- On GARDE le .json du modèle (léger, 500 KB) ---
+# models/random_forest_model.json  ← GARDER
+
+# --- Node.js / React Native / Expo ---
+node_modules/
+mobile_app/node_modules/
+mobile_app/dist/
+mobile_app/.expo/
+mobile_app/npx
+*.tsbuildinfo
+.expo/
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# --- Dossier vide ---
+app/
+
+# --- Fichiers temporaires d'agents IA ---
+mobile_app/.claude/
+mobile_app/CLAUDE.md
+mobile_app/AGENTS.md
+
+# --- Logs ---
+*.log
+npm-debug.log*
+
+# --- OS ---
+Desktop.ini
+ehthumbs.db
