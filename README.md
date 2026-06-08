@@ -1,87 +1,134 @@
-# 🌾 Safe_AgriLab : L'Intelligence Décisionnelle pour la Chaîne de Valeur Agricole
+# 🌾 Mofiala (Safe_AgriLab)
+### L'Intelligence Artificielle au service des producteurs togolais — 100% autonome et accessible.
 
-![Status](<https://img.shields.io/badge/Status-En_Développement_(Hackathon)-orange>)
-![Phase](https://img.shields.io/badge/Phase-1_CRISP--DM-blue)
-![AI](<https://img.shields.io/badge/IA-Machine_Learning_(RandomForest)-brightgreen>)
-![Mobile](<https://img.shields.io/badge/App-Flutter_(Hors--Ligne)-blue>)
+[![Status](https://img.shields.io/badge/Status-Hackathon_HACK--TECH2026-orange)](#)
+[![Stack](https://img.shields.io/badge/Stack-React_Native_|_Expo_|_Python-blue)](#)
+[![Offline](https://img.shields.io/badge/Offline-70%25_Hors--Ligne-green)](#)
 
-> **Projet Hackathon 72h** visant à révolutionner l'agriculture rurale en connectant intelligemment la terre au marché, **sans nécessiter de connexion internet sur le terrain**.
+**Mofiala** ("Le Conseiller" ou "L'Enseignant" en Éwé) — initialement nommé *Safe_AgriLab* — est une application mobile native d'aide à la décision agricole conçue spécifiquement pour les petits exploitants au Togo. 
+
+L'application intègre un moteur de Machine Learning (Random Forest) embarqué fonctionnant localement sur le téléphone. Elle permet aux agriculteurs d'obtenir des recommandations de cultures optimales et d'anticiper les rendements selon leur sol et le micro-climat, **sans avoir besoin de connexion internet dans leurs champs**.
 
 ---
 
-## 🛑 La Problématique (Le "Pourquoi")
+## 🛑 Problématique & Track
 
-Dans les zones rurales, l'agriculture reste une activité à haut risque et peu rentable pour deux raisons majeures :
+* **Track du Hackathon :** Track 1 — Agriculture & Agro-technologie
+* **Le défi concret :** 
+  Dans les zones rurales du Togo, les agriculteurs travaillent à l'aveugle. Ils manquent d'informations scientifiques sur la santé de leurs sols et font face à un climat de plus en plus instable. Résultat : des récoltes imprévisibles et un "mur de la vente" (cultiver sans savoir si le marché va acheter, entraînant des pertes post-récolte colossales). De plus, **la couverture internet est faible ou inexistante dans les champs**, rendant les solutions cloud classiques inutilisables.
 
-1. **L'Opacité Agronomique :** Les agriculteurs manquent de données précises sur la santé de leurs sols (N, P, K, pH) ou les variations climatiques, entraînant des rendements faibles et une perte de ressources.
-2. **L'Incertitude Commerciale (Le "Mur de la vente") :** Produire est une chose, vendre en est une autre. Cultiver sans visibilité sur la demande du marché conduit à des pertes post-récolte massives et à la précarité financière.
+---
 
-## 💡 Notre Solution
+## 💡 Notre Solution : Mofiala
 
-**Safe_AgriLab** est une plateforme d'Intelligence Artificielle "End-to-End" embarquée dans une application mobile 100% autonome (hors-ligne).
+Mofiala résout ce problème en combinant la puissance de l'IA et une philosophie **Offline-First (70% des fonctionnalités hors-ligne)** :
+1. **Recommandation Intelligente :** L'agriculteur saisit ses paramètres de sol (N, P, K, pH) et l'IA locale lui recommande la culture la plus rentable.
+2. **Prédiction de Rendement Météo :** En fonction des prévisions climatiques locales, le modèle de Machine Learning calcule le rendement attendu et prévient des risques de stress hydrique ou thermique.
+3. **Assistance Vocale Multilingue :** L'agriculteur peut interagir avec l'application par la voix. Un mode hors-ligne prend en charge le français, tandis qu'une version connectée permet de parler dans les langues locales (Éwé, Kabyè) pour éliminer la barrière de l'analphabétisme.
+4. **Visibilité sur le Marché :** Suivi des cours des marchés togolais pour planifier les ventes et sécuriser les revenus avant même de planter.
 
-- 🚜 **Volet Agronomique :** Le moteur IA analyse les paramètres du sol et de la météo pour recommander la culture la plus optimale (Garantie de rendement).
-- 📈 **Volet Marché :** Analyse prédictive des tendances et fixation des prix pour garantir un profit avant même de planter (Briser le mur de la vente).
+---
 
-### ✨ Points Forts & Innovation
+## 🧠 Le Défi Technique : La "Corrélation Fantôme" & L'Indice de Stress
 
-- **100% Hors-Ligne (Offline First) :** L'IA est directement intégrée dans le téléphone (via Flutter et modèles exportés). Aucune connexion requise après le téléchargement initial.
-- **Approche End-to-End :** De la graine jusqu'à la vente, toute la chaîne de valeur est optimisée.
-- **Souveraineté Alimentaire :** Sécuriser les revenus encourage la production locale.
+Lors de la phase de R&D (Data Science), nous avons fait face à un problème majeur : la corrélation mathématique directe entre les anomalies climatiques brutes et le rendement des cultures était de **0.00**. L'IA ne parvenait pas à apprendre.
+
+**Notre solution :** Plutôt que de jeter des données brutes au modèle, nous avons créé l'**Indice de Stress Climatique (ISC)**. Cet indice combine et normalise l'écart absolu des températures et des précipitations par rapport aux moyennes historiques du Togo (calculé à partir des données réelles de la NASA POWER et de la FAOSTAT). 
+Cette étape de *Feature Engineering* a permis de redonner de la linéarité à nos données. En bridant la profondeur de notre modèle Random Forest (`max_depth=10`), nous avons obtenu un modèle léger, ultra-précis (**R² de 0.89**) et totalement protégé contre le surapprentissage (*overfitting*).
 
 ---
 
 ## 🧬 Architecture Technique
 
-Notre projet est divisé en deux grandes phases :
+```mermaid
+graph TD
+    subgraph Data Science & IA (Python)
+        A[FAOSTAT + NASA POWER + BM] --> B[Feature Engineering: Indice de Stress]
+        B --> C[Entraînement RandomForestRegressor]
+        C --> D[Export du modèle en JSON compact]
+    end
 
-1. **L'Intelligence Artificielle (Core) :** Entraînement de modèles de Machine Learning (Random Forest Classifier & Regressor) en Python via Scikit-Learn avec des jeux de données locaux et internationaux.
-2. **L'Application Mobile :** Application Flutter qui exécute les modèles de prédiction de manière native via traduction en Dart (`m2cgen`) ou TFLite.
+    subgraph Application Mobile (React Native / Expo)
+        D -->|Intégration Assets| E[Moteur d'inférence JS Offline]
+        F[Saisie Agriculteur: voix / manuel] --> E
+        E --> G[Recommandation & Prédiction de Rendement]
+        H[Firebase Auth / Firestore] -.->|Synchronisation en ligne| I[Profil & Sauvegardes]
+    end
+```
+
+Le modèle de Machine Learning est traduit en un algorithme d'arbre de décision en pur JavaScript (`mobile_app/src/ai/inference.js`). Il pèse moins de 100 Ko et s'exécute en moins de 2 millisecondes sur le processeur du smartphone, sans aucune requête réseau.
 
 ---
 
-## 📊 Méthodologie CRISP-DM (Le Sprint de 72h)
+## 💻 Prérequis
 
-Nous appliquons de manière rigoureuse la norme de l'industrie **CRISP-DM** :
+Pour installer et lancer le projet localement :
 
-- [x] **1. Compréhension Métier :** Maximiser le rendement et sécuriser la vente finale.
-- [x] **2. Compréhension des Données :** Collecte des données réelles du Togo (ANAMET, Ministère de l'Agriculture, INSEED, Banque Mondiale, NASA POWER, FAOSTAT).
-- [x] **3. Préparation des Données :** Nettoyage, fusion des sources réelles et traitement des valeurs manquantes.
-- [ ] **4. Modélisation :** Entraînement des modèles Random Forest pour l'agronomie et le marché.
-- [ ] **5. Évaluation :** Vérification de la précision des modèles.
-- [ ] **6. Déploiement :** Intégration de l'IA dans l'App Flutter et compilation Android (.apk).
+### 📱 Partie Mobile (React Native & Expo)
+* **Node.js** (version 18 ou supérieure recommandée)
+* **npm** ou **yarn**
+* Un smartphone avec l'application **Expo Go** installée (disponible sur [Android Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent) et [iOS App Store](https://apps.apple.com/app/expo-go/id984023705)) ou un émulateur Android/iOS.
+
+### 🐍 Partie IA (Python - Optionnel, pour réentraîner le modèle)
+* **Python 3.10+**
+* Les bibliothèques : `pandas`, `numpy`, `scikit-learn`, `nbformat`.
 
 ---
 
-## 🧮 Ingénierie des Données (Feature Selection)
+## ⚙️ Installation & Lancement
 
-Pour garantir un apprentissage machine pertinent (sans sur-apprentissage "overfitting" ni pollution par des données inutiles), nous avons procédé à une sélection stricte des attributs (features) suite à l'Analyse Exploratoire (EDA) :
+### 1. Cloner le projet
+```bash
+git clone https://github.com/votre-compte/Safe_AgriLab.git
+cd Safe_AgriLab
+```
 
-**1. Données de Production (FAOSTAT)**
+### 2. Lancer l'Application Mobile
+1. Rendez-vous dans le dossier de l'application :
+   ```bash
+   cd mobile_app
+   ```
+2. Installez les dépendances :
+   ```bash
+   npm install
+   ```
+3. Démarrez le serveur de développement Expo :
+   ```bash
+   npm start
+   ```
+4. **Scanner le QR Code** affiché dans le terminal avec l'appareil photo de votre téléphone (iOS) ou via l'application **Expo Go** (Android). L'application se chargera instantanément.
 
-- **Attributs Conservés :** `Produit` (La culture), `Année` (Clé de fusion), `Valeur` (Le rendement réel en kg/ha).
-- **Attributs Supprimés :** `Symbole`, `Description du Symbole`, `Note` (1603 valeurs vides sur 1702), car ils ne contiennent aucune valeur mathématique ou prédictive.
+### 3. Exécuter la partie Data Science (Optionnel)
+Si vous souhaitez réentraîner le modèle ou voir la démarche scientifique :
+```bash
+cd ai_core
+pip install pandas numpy scikit-learn nbformat
+python train_model.py
+```
+Le script va générer les fichiers du modèle et mettre à jour le notebook d'évaluation.
 
-**2. Données Climatiques (NASA POWER)**
+---
 
-- **Attributs Conservés :** `YEAR` (Clé de fusion), `T2M` (Température moyenne), `PRECTOTCORR` (Précipitations), `RH2M` (Humidité relative), `GWETROOT` (Humidité des racines), `GWETTOP` (Humidité de surface).
-- **Attributs Supprimés :** `DOY` (Day Of Year), qui devient obsolète après agrégation annuelle/saisonnière.
-- _Traitement :_ Interpolation linéaire des 6 valeurs manquantes (`-999.0`).
+## 🔑 Identifiants de Test (Compte Démo)
 
-**3. Données Macro-économiques (Banque Mondiale)**
+L'application utilise l'authentification Firebase liée aux numéros de téléphone des producteurs. 
 
-- **Attributs Conservés :** Uniquement le code `NV.AGR.TOTL.KN` (Valeur Ajoutée Agricole en LCU constant).
-- **Attributs Supprimés :** Tous les autres indicateurs de la Banque Mondiale.
-- _Justification :_ Cet indicateur unique est le reflet exact de la valeur marchande du secteur agricole. Il est la clé pour casser le "mur de la vente".
+* **Pour vous inscrire :** Vous pouvez créer un compte directement dans l'application en saisissant n'importe quel numéro de téléphone à 8 chiffres de votre choix (ex: `90123456`) et un mot de passe (minimum 6 caractères).
+* **Compte de test préconfiguré :**
+  * **Numéro de téléphone :** `90000000`
+  * **Mot de passe :** `password123`
+
+*(Note : Si vous êtes hors-ligne lors du premier lancement, l'application utilise un profil invité local automatique pour que l'agriculteur ne soit jamais bloqué).*
 
 ---
 
 ## 👥 L'Équipe
 
-- **DJANTA Samuel** : Stratégie & Data Sourcing (Ministère de l'Agriculture TG, OpenDataAfrica)
-- **KAMBIA Irénée (Leader Technique)** : Climatologie, Macro-économie, Intégration technique et Modélisation IA et Climatologie & Macro-économie (ANAMET Togo, Banque Mondiale)
-- **DJANTA Jean** : Statistiques & Marché (INSEED, FAOSTAT)
+Nous sommes une équipe complémentaire unie pour transformer l'agriculture togolaise :
+
+* **DJANTA Samuel** — *Chef de groupe & Développeur Web*
+* **KAMBIA Irénée** — *Leader Technique, Spécialiste Intelligence Artificielle & Big Data*
+* **DJANTA Jean** — *Ingénieur en Sciences de l'Ingénieur & Intégration Matériel*
 
 ---
-
-_Ce dépôt est mis à jour en continu durant le Hackathon._
+*Fait avec passion pendant le Hackathon HACK-TECH2026. 🇹🇬*
