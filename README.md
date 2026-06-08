@@ -78,10 +78,9 @@ Pour garantir un apprentissage machine pertinent (sans sur-apprentissage "overfi
 
 ## 👥 L'Équipe
 
-- **Sam** : Stratégie & Data Sourcing (Ministère de l'Agriculture TG, OpenDataAfrica)
-- **Irenée** : Climatologie & Macro-économie (ANAMET Togo, Banque Mondiale)
-- **Jean** : Statistiques & Marché (INSEED, FAOSTAT)
-- **[Votre Nom / Rôle]** : Intégration technique et Modélisation IA
+- **DJANTA Samuel** : Stratégie & Data Sourcing (Ministère de l'Agriculture TG, OpenDataAfrica)
+- **KAMBIA Irénée (Leader Technique)** : Climatologie, Macro-économie, Intégration technique et Modélisation IA et Climatologie & Macro-économie (ANAMET Togo, Banque Mondiale)
+- **DJANTA Jean** : Statistiques & Marché (INSEED, FAOSTAT)
 
 ---
 

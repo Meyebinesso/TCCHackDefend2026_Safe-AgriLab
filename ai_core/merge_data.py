@@ -58,7 +58,9 @@ def merge_datasets():
     df_merged = pd.merge(df_merged, df_wb_melted, on='Année', how='inner')
     
     # Sauvegarde
-    output_path = f'{DATA_DIR}/merged_agrilab_dataset.csv'
+    import os
+    os.makedirs(f'{DATA_DIR}/master_dataset', exist_ok=True)
+    output_path = f'{DATA_DIR}/master_dataset/Togo_Agriculture_Real_Data.csv'
     df_merged.to_csv(output_path, index=False)
     print(f"Fusion terminée avec succès ! Lignes: {len(df_merged)}")
     print(f"Fichier sauvegardé dans : {output_path}")
